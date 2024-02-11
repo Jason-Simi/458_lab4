@@ -15,3 +15,8 @@ This map uses both the original dark basemap chosen from mapboxes selections and
 # USA Theme 
 This map uses a custom color scheme of red, white, and blue to show patriotism towards the voting process in the USA
 ![USAtheme](/imgs/usamap.png)
+
+# Extra information
+· Zoom level ranges from 2 - 12
+· URL : https://jason-simi.github.io/458_lab4/
+· Reference Data : https://geo.wa.gov/datasets/75fd31e30c76468291b48470a20b4b49_0/explore?location=47.243488%2C-120.476018%2C8.43
